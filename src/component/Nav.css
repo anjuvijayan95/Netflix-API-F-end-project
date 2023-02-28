@@ -1,0 +1,16 @@
+.logo{
+    position: fixed;
+    padding-top: .3rem;
+    padding-left: .3rem;
+    z-index: 1;
+}
+
+.img{
+    width: 7rem;
+}
+
+.nav_black{
+    background-color: black;
+    height: 2.5rem;
+    width: 100%;
+}
